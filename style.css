@@ -1,0 +1,19 @@
+img{
+    width: 100%;
+    height: auto;
+}
+.description {
+    border: #777777 solid 1px;
+    line-height: 25px;
+    text-align: center;
+    padding: 10px;
+}
+.responsive > div{
+    margin-bottom: 20px;
+}
+.responsive img {
+    border: #777777 solid 1px;
+}
+h1, h5 {
+    text-align: center;
+}
